@@ -1,0 +1,9 @@
+0 Anthracnose
+1 Bacterial Canker
+2 Cutting Weevil
+3 Die Back
+4 Gall Midge
+5 Healthy
+6 Powdery Mildew
+7 Sooty Mould
+8 Humans
