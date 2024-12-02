@@ -1,6 +1,7 @@
 # first_app
 
-A new Flutter project. Firebase was used as the backend part & cloud firestore was used as the database of my project.
+A new Flutter project. Firebase was used as the backend part & cloud firestore was used as the database of my project. The figma-UI design of this project is mentioned below:
+https://www.figma.com/design/bIFeelS1lsXxsclIbo2NT3/FIGMA-2.0?node-id=0-1&node-type=canvas&t=fmkVuUpZw8dBYiWS-0
 
 ## Getting Started
 
